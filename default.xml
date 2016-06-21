@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="ssh://git@github.com" />
+
+  <default revision="aap-master" remote="github" />
+
+  <project path="toolchain" name="embecosm/aap-toolchain" />
+  <project path="binutils-gdb" name="embecosm/aap-binutils-gdb" />
+  <project path="clang" name="embecosm/aap-clang" />
+  <project path="compiler-rt" name="embecosm/aap-compiler-rt" />
+  <project path="gdbserver" name="embecosm/aap-gdbserver" />
+  <project path="llvm" name="embecosm/aap-llvm" />
+  <project path="newlib" name="embecosm/aap-newlib" />
+</manifest>
+
