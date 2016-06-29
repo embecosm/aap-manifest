@@ -11,7 +11,7 @@
   <project path="gdbserver" name="embecosm/aap-gdbserver" revision="master" />
   <project path="llvm" name="embecosm/aap-llvm" />
   <project path="newlib" name="embecosm/aap-newlib" />
-  <project path="dejagnu" name="embecosm/dejagnu" revision="test-override" />
+  <project path="dejagnu" name="embecosm/dejagnu" revision="test-test-override" />
   <project path="gcc" name="embecosm/gcc" revision="test-override" />
 </manifest>
 
