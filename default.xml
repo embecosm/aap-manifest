@@ -4,7 +4,7 @@
 
   <default revision="aap-master" remote="github" />
 
-  <project path="toolchain" name="embecosm/aap-toolchain" revision="aap-more-tests" />
+  <project path="toolchain" name="embecosm/aap-toolchain" revision="fill-override-manifest" />
   <project path="binutils-gdb" name="embecosm/aap-binutils-gdb" />
   <project path="clang" name="embecosm/aap-clang" />
   <project path="compiler-rt" name="embecosm/aap-compiler-rt" />
